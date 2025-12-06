@@ -1,6 +1,5 @@
 
 "use client";
-
 import { useState } from "react";
 import Image from "next/image";
 import Link from "next/link";
@@ -15,7 +14,7 @@ const Navbar: React.FC = () => {
   const [isCartOpen, setIsCartOpen] = useState(false);
 
   return (
-    <nav className="fixed top-0 left-0 z-50 w-full bg-white ">
+    <nav className="fixed top-0 left-0 z-50 w-full bg-white border-b-2 border-b-black ">
       <div className="flex flex-wrap items-center justify-between max-w-screen-xl p-4 mx-auto">
         
         {/* Logo */}
@@ -217,7 +216,7 @@ const Navbar: React.FC = () => {
                 href="#"
                 className="block px-3 py-2 font-semibold text-black bg-white rounded-sm md:bg-transparent md:p-0 md:text-lg"
               >
-                GIFTS
+              ALL PRODUCTS
               </Link>
             </li>
           </ul>
@@ -286,9 +285,7 @@ const Navbar: React.FC = () => {
           </div>
         </div>
       )}
-
-      
-     <ShopModel
+<ShopModel
   isOpen={isCartOpen}
   onClose={() => setIsCartOpen(false)}
 />

@@ -1,5 +1,5 @@
 import React from 'react';
-import NewArival from '../Buttons/NewArival';
+import ShopNew from '../Buttons/ShopNew';
 
 const Background = () => {
   return (
@@ -23,7 +23,7 @@ const Background = () => {
 
       {/* New Arrival button */}
       <div className="absolute bottom-4 right-4 md:bottom-8 md:right-8">
-        <NewArival />
+        <ShopNew/>
       </div>
 
       
