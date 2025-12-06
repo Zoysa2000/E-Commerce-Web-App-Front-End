@@ -1,0 +1,94 @@
+[
+  {
+    "id": "001",
+    "title": "Men's Casual Shirt",
+    "description": "Oversized Fit",
+    "image": "/assets/pro1.png",
+    "image1": "/assets/pro8.png",
+    "price": "LKR 2000.00",
+    "colors": ["White", "Blue"],
+    "sizes": ["S", "M", "L", "XL"],
+    "stock": 15,
+    "category": "Shirt",
+    "link": "#"
+  },
+  {
+    "id": "002",
+    "title": "Men's Polo T-Shirt",
+    "description": "Slim Fit Cotton Polo",
+    "image": "/assets/pro11.png",
+    "image1": "/assets/pro9.png",
+    "price": "LKR 2500.00",
+    "colors": ["Black", "Gray", "Navy"],
+    "sizes": ["S", "M", "L", "XL"],
+    "stock": 25,
+    "category": "T-Shirt",
+    "link": "#"
+  },
+  {
+    "id": "003",
+    "title": "Men's Hoodie",
+    "description": "Classic Pullover Hoodie",
+    "image": "/assets/pro12.png",
+    "image1": "/assets/pro10.png",
+    "price": "LKR 3200.00",
+    "colors": ["Maroon", "Charcoal"],
+    "sizes": ["M", "L", "XL"],
+    "stock": 8,
+    "category": "Hoodie",
+    "link": "#"
+  },
+  {
+    "id": "004",
+    "title": "Men's Formal Shirt",
+    "description": "Slim Fit Cotton Blend",
+    "image": "/assets/pro4.png",
+    "image1": "/assets/pro11.png",
+    "price": "LKR 2800.00",
+    "colors": ["White", "Light Blue"],
+    "sizes": ["S", "M", "L", "XL"],
+    "stock": 12,
+    "category": "Shirt",
+    "link": "#"
+  },
+  {
+    "id": "005",
+    "title": "Men's Jeans",
+    "description": "Regular Fit Denim",
+    "image": "/assets/pro1.png",
+    "image1": "/assets/pro4.png",
+    "price": "LKR 3500.00",
+    "colors": ["Dark Blue", "Light Blue"],
+    "sizes": ["28", "30", "32", "34", "36"],
+    "stock": 20,
+    "category": "Jeans",
+    "link": "#"
+  },
+  {
+    "id": "006",
+    "title": "Men's Graphic Tee",
+    "description": "Cotton Printed T-Shirt",
+    "image": "/assets/pro4.png",
+    "image1": "/assets/pro1.png",
+    "price": "LKR 2200.00",
+    "colors": ["White", "Black"],
+    "sizes": ["S", "M", "L", "XL"],
+    "stock": 18,
+    "category": "T-Shirt",
+    "link": "#"
+  },
+  {
+    "id": "007",
+    "title": "Men's Jacket",
+    "description": "Lightweight Bomber Jacket",
+    "image": "/assets/pro1.png",
+    "image1": "/assets/pro4.png",
+    "price": "LKR 4500.00",
+    "colors": ["Olive", "Black"],
+    "sizes": ["M", "L", "XL"],
+    "stock": 6,
+    "category": "Jacket",
+    "link": "#"
+  }
+]
+
